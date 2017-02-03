@@ -1,0 +1,30 @@
+body {
+	background: red;
+	color: white;
+	font-family: 'Tangerine', Garmond, Arial;
+	font-size: 2em;
+	text-align: center;
+}
+p {
+	font-family: Comfortaa, 'Tangerine', san serif;
+	padding: 25px;
+}
+#change {
+	border-radius: 5px;
+	font-family: Comfortaa,'Tangerine', san serif;
+	font-size: 1.25em;
+	margin: 15px;
+	padding: 5px;
+}
+.yogi {
+	background: #777;
+	border: 1px solid black;
+	min-height: 30px;
+	min-width: 30px;
+}
+.booboo {
+	background: black;
+	border: 3px solid white;
+	min-height: 30px;
+	min-width: 30px;
+}
